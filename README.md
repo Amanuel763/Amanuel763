@@ -9,9 +9,12 @@ Amanuel763/Amanuel763 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanuel763&theme=radical)
+<img align = "left" width ="47%" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanuel763&theme=radical)" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanuel763&layout=compact)](https://github.com/Amanuel763/github-readme-stats)
+<img align = "left" width ="47%" src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanuel763&layout=compact)](https://github.com/Amanuel763/github-readme-stats)
+" />
+
+
 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
